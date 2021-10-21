@@ -12856,6 +12856,12 @@
       fingerprint = "DD54 130B ABEC B65C 1F6B  2A38 8312 4F97 A318 EA18";
     }];
   };
+  qitta = {
+    email = "christoph@nullcat.de";
+    github = "qitta";
+    githubId = 1529446;
+    name = "Christoph Piechula";
+  };
   ydlr = {
     name = "ydlr";
     email = "ydlr@ydlr.io";

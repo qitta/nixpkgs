@@ -25931,6 +25931,8 @@ with pkgs;
 
   kubectl = callPackage ../applications/networking/cluster/kubectl { };
 
+  kubecolor = callPackage ../applications/networking/cluster/kubecolor { };
+
   kubebuilder = callPackage ../applications/networking/cluster/kubebuilder { };
 
   kuttl = callPackage ../applications/networking/cluster/kuttl {
